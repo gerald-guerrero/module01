@@ -1,2 +1,5 @@
-venv
-.ipynb_checkpoints
+venv/
+venv2/
+.ipynb_checkpoints/
+__pycache__/
+.pytest_cache/
